@@ -1,5 +1,5 @@
 const { login_header_1, login_header_1_2 } = require('./headers.js');
-const { promptUser, getSections } = require('./separator');
+const { prompt_user, get_sections } = require('./separator');
 const request = require('request');
 const { URL } = require('url');
 const fs = require('fs');
@@ -148,7 +148,7 @@ function third(callback, mail_full, account_password, opid, post_url, uaid, ppft
 }
 
 
-async function processElement(element) {
+async function process_element(element) {
     return new Promise((resolve) => {
         setTimeout(() => {
             resolve();
@@ -205,7 +205,7 @@ async function start(section, section_number, proxies) {
         const email = parts[0].trim();
         const password = parts[1].trim()
 
-        await processElement(data_line);
+        await process_element(data_line);
         let retry_count = 0;
 
         while (retry_count <= 5) {
@@ -227,8 +227,8 @@ async function start(section, section_number, proxies) {
   
 
 async function main() {
-    const thread_num = await promptUser("Threads: ");
-    const sections = await getSections('input/combolist.txt', thread_num);
+    const thread_num = await prompt_user("Threads: ");
+    const sections = await get_sections('input/combolist.txt', thread_num);
     const proxy_path = 'input/proxies.txt';
     const proxy_data = fs.readFileSync(proxy_path, 'utf8');
     const proxies = proxy_data.split('\n');
