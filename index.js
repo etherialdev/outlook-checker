@@ -1,9 +1,9 @@
-const { login_header_1, login_header_1_2 } = require('./headers.cjs');
+const { login_header_1, login_header_1_2 } = require('./headers.js');
 const { promptUser, getSections } = require('./separator');
 const request = require('request');
 const { URL } = require('url');
 const fs = require('fs');
-const { Log } = require('./logger.cjs');
+const { Log } = require('./logger.js');
 
 
 
