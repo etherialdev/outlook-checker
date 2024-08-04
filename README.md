@@ -22,7 +22,7 @@
   ## 🔥 Features:
   
   - **Request based**
-  - **Lightning fast: up to 1000 threads**
+  - **Lightning fast: up to 500 threads**
   - **Low Proxy Usage**
   - **Retry mechanism: 3 retries, if request failed**
   - **99.8% detect rate**
