@@ -5,6 +5,7 @@
 <div id="title" align="center">
   
   # Outlook Account Checker
+
   
 </div>
 
@@ -18,13 +19,21 @@
 ⚠️ The tool was tested with IPRoyal sticky residential proxies ⚠️
 </div>
 
+<div align="center">
+
+  <a href="#"><img alt="OutlookGen forks" src="https://img.shields.io/github/forks/etherialdev/outlook-checker?style=for-the-badge"></a>
+<a href="#"><img alt="Repo stars" src="https://img.shields.io/github/stars/etherialdev/outlook-checker?style=for-the-badge&color=yellow"></a>
+<a href="#"><img alt="OutlookGen License" src="https://img.shields.io/github/license/etherialdev/outlook-checker?color=orange&style=for-the-badge"></a>
+<a href="https://github.com/etherialdev/outlook-checker/issues"><img alt="issues" src="https://img.shields.io/github/issues/etherialdev/outlook-checker?color=purple&style=for-the-badge"></a>
+  
+</div>
 
   ## 🔥 Features:
   
   - **Request based**
   - **Lightning fast: up to 500 threads**
   - **Low Proxy Usage**
-  - **Retry mechanism: 3 retries, if request failed**
+  - **Retry mechanism: 5 retries, if request failed**
   - **99.8% detect rate**
 
 
