@@ -44,6 +44,18 @@
   - **⭐️ 25 stars | inbox checker and filter**
   - **⭐️ 30 stars | imap enabler**
 
+  ## 📝 Changelog
+
+  <details>
+    <summary style="cursor: pointer;">Click to see the Changelog</summary>
+
+    2024/09/14
+    - added config file
+    - moved thread_num into the config file
+    - added proxy checker
+
+  </details>
+
   ## ❗ Legal & Contact:
   
   - **For support contact: [Telegram](https://t.me/etherialdev)**
