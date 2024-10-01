@@ -54,19 +54,4 @@ async function get_sections(file, threads) {
   return sections;
 }
 
-function prompt_user(question) {
-  return new Promise((resolve) => {
-    const rl = readline.createInterface({
-      input: process.stdin,
-      output: process.stdout
-    });
-
-    rl.question(question, (answer) => {
-      rl.close();
-      resolve(answer);
-    });
-  });
-}
-
-
-module.exports = { get_sections, prompt_user };
+module.exports = { get_sections };
