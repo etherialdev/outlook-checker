@@ -54,4 +54,7 @@ async function get_sections(file, threads) {
   return sections;
 }
 
-module.exports = { get_sections };
+
+module.exports = {
+    get_sections
+}

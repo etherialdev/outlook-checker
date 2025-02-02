@@ -31,10 +31,8 @@ class Log {
         await Log._log("ERROR", `${color}${prefix}\x1b[0m`, message);
     }
 
-    static async Debug(message, prefix = "(*)", color = "\x1b[33m") {
-        if (process.env.DEBUG) {
-            await Log._log("DEBUG", `${color}${prefix}\x1b[0m`, message);
-        }
+    static async Debug(message, prefix = "(#)", color = "\x1b[33m") {
+        await Log._log("DEBUG", `${color}${prefix}\x1b[0m`, message);
     }
 
     static async Info(message, prefix = "(?)", color = "\x1b[37m") {
