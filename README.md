@@ -31,7 +31,6 @@
 ## 🔓 Free Version  
 🔥 **Features:** 
 - **Request-based processing**
-- **Recordnotice** bypass
 - Supports up to **500 threads** for high-speed operations
 - **Efficient** proxy usage, supporting HTTP, SOCKS4, and SOCKS5 proxies
 - **Accurate detection** of locked, 2FA-protected, invalid, and valid accounts (**99.9% detection rate**)
@@ -43,6 +42,7 @@
 - **Free** release at **200** stars
 
 🔥 **Features:** 
+- **Recordnotice** bypass
 - **Includes all free version features**  
 - **IMAP enabler** using the **Thunderbird Mobile API**  
 - **Inbox filter** with custom domain input in the config file
