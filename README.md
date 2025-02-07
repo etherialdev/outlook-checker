@@ -77,7 +77,7 @@ module.exports = {
 ## 💻 Usage (Source Code)
   - **Install nodejs: [[click]](https://nodejs.org/en/download/prebuilt-installer)**
   - **Install all dependencies: <code>npm install</code>**
-  - **Put your proxies in <code>input/proxies.txt</code> | <code>username:password@hostname:port</code>**
+  - **Put your proxies in <code>input/proxies.txt</code> | <code>username:password@hostname:port or ip:port format</code>**
   - **Put your accounts in <code>input/combolist.txt</code> | <code>email:password</code>**
   - **Start the program with: <code>node index.js</code>**
 
