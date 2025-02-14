@@ -83,7 +83,7 @@ module.exports = {
 
 ## ❗ Legal & Contact:
   
-  - **For support contact: [Telegram](https://t.me/etherialdev)**
+  - **For support contact: [Telegram](https://t.me/etherialdev)** 
 
   - **This tool is for educational purposes only. By using it, you acknowledge that I am not liable for any consequences resulting from its use.**
 
