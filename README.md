@@ -39,7 +39,7 @@
 💰 **Pricing:**  
 - **Lifetime license key:** $99  
 - **Full source code:** $250  
-- **Free** release at **200** stars
+- **Free** release at **200** stars 
 
 🔥 **Features:** 
 - **Recordnotice** bypass
