@@ -30,7 +30,7 @@
 
 ## 🔓 Free Version  
 🔥 **Features:** 
-- **Request-based processing**
+- **Request-based processing** 
 - Supports up to **500 threads** for high-speed operations
 - **Efficient** proxy usage, supporting HTTP, SOCKS4, and SOCKS5 proxies
 - **Accurate detection** of locked, 2FA-protected, invalid, and valid accounts (**99.9% detection rate**)
