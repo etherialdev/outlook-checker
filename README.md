@@ -4,7 +4,7 @@
 
 <div id="title" align="center">
 
-  # Outlook Account Checker
+  # Outlook Account Checker 
 </div>
 
 <div id="title" align="center">
