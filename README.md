@@ -28,7 +28,7 @@
 
 </div> 
  
-## 🔓 Free Version  
+## 🔓 Free Version   
 🔥 **Features:** 
 - **Request-based processing** 
 - Supports up to **500 threads** for high-speed operations
