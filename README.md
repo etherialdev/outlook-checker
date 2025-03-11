@@ -29,7 +29,7 @@
 </div> 
  
 ## 🔓 Free Version   
-🔥 **Features:** 
+🔥 **Features:**  
 - **Request-based processing** 
 - Supports up to **500 threads** for high-speed operations
 - **Efficient** proxy usage, supporting HTTP, SOCKS4, and SOCKS5 proxies
