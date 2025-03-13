@@ -7,7 +7,7 @@
   # Outlook Account Checker 
 </div>
 
-<div id="title" align="center">
+<div id="title" align="center"> 
   
 
 ![showcase](https://github.com/user-attachments/assets/d68cbed8-112d-48fc-b766-9256468a9595)
