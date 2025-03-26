@@ -14,7 +14,7 @@
 
  
 <p align="center">
-
+ 
   [![FREE VERSION](https://img.shields.io/badge/FREE%20VERSION-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
   [![PAID VERSION](https://img.shields.io/badge/PAID%20VERSION-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
   <br>
