@@ -13,16 +13,19 @@
 ![showcase](https://github.com/user-attachments/assets/d68cbed8-112d-48fc-b766-9256468a9595)
 
  
-<p align="center"> 
- 
-  [![FREE VERSION](https://img.shields.io/badge/FREE%20VERSION-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
-  [![PAID VERSION](https://img.shields.io/badge/PAID%20VERSION-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
+<div align="center">
   <br>
-  &nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sm38JmvVey)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/etherialdev)
+  <a href="https://discord.gg/sm38JmvVey">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://t.me/etherialdev">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
   <br>
-  [![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/etherialhub)
-</p>
+  <a href="https://t.me/etherialhub">
+    <img src="https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</div>
 
 
 
