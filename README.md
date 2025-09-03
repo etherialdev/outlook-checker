@@ -13,29 +13,39 @@
 ![showcase](https://github.com/user-attachments/assets/d68cbed8-112d-48fc-b766-9256468a9595)
 
  
-<div align="center">
+<p align="center"> 
+ 
+  [![FREE VERSION](https://img.shields.io/badge/FREE%20VERSION-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
+  [![PAID VERSION](https://img.shields.io/badge/PAID%20VERSION-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
   <br>
-  <a href="https://discord.gg/sm38JmvVey">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://t.me/etherialdev">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
+  &nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sm38JmvVey)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/etherialdev)
   <br>
-  <a href="https://t.me/etherialhub">
-    <img src="https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</div>
+  [![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/etherialhub)
+</p>
 
 
 
 </div> 
  
-## 🔥 **Features:**  
+## 🔓 Free Version   
+🔥 **Features:**  
 - **Request-based processing** 
 - Supports up to **500 threads** for high-speed operations
 - **Efficient** proxy usage, supporting HTTP, SOCKS4, and SOCKS5 proxies
 - **Accurate detection** of locked, 2FA-protected, invalid, and valid accounts (**99.9% detection rate**)
+
+## 🔒 Paid Version  
+💰 **Pricing:**  
+- **Lifetime license key:** $99  
+- **Full source code:** $250  
+- **Free** release at **200** stars 
+
+🔥 **Features:** 
+- **Recordnotice** bypass
+- **Includes all free version features**  
+- **IMAP enabler** using the **Thunderbird Mobile API**  
+- **Inbox filter** with custom domain input in the config file
 
 ## 📑 File Structure
 
@@ -76,4 +86,3 @@ module.exports = {
   - **For support contact: [Telegram](https://t.me/etherialdev)** 
 
   - **This tool is for educational purposes only. By using it, you acknowledge that I am not liable for any consequences resulting from its use.**
-
