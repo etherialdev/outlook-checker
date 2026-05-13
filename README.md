@@ -69,7 +69,7 @@ module.exports = {
     inbox_filter: ["example.com", "", ""] // Domain input, for the inbox filter
 };
 
-```
+``` 
 
 ## 💻 Usage (Source Code) 
   - **Install nodejs: [[click]](https://nodejs.org/en/download/prebuilt-installer)**
